@@ -24,6 +24,7 @@ Esta API foi desenvolvida utilizando Flask, Flask-SQLAlchemy, Flask-Marshmallow 
 }
 
 Resposta
+
 ```json
 {
   "access_token": "exemplo_token_acesso"

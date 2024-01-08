@@ -22,6 +22,7 @@ Esta API foi desenvolvida utilizando Flask, Flask-SQLAlchemy, Flask-Marshmallow 
   "username": "exemplo",
   "password": "senha123"
 }
+```json
 
-tretgerfgdsgfsdsfg
+
 

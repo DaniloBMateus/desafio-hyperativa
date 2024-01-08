@@ -12,7 +12,10 @@ Esta API foi desenvolvida utilizando Flask, Flask-SQLAlchemy, Flask-Marshmallow 
   * O banco de dados SQLite é utilizado.
 
 ## Autenticação
-### Endpoint: '/api/auth'
+### Endpoint: /api/auth
+  * Método: POST
+  * Descrição: Autentica usuários.
+  * Corpo da Requisição:
 
 ```json
 {

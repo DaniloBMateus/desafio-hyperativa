@@ -11,8 +11,8 @@ Esta API foi desenvolvida utilizando Flask, Flask-SQLAlchemy, Flask-Marshmallow 
   * Certifique-se de ter uma SECRET_KEY segura para autenticação JWT.
   * O banco de dados SQLite é utilizado.
 
-## Autenticação <a name="autenticacao"></a>
-Autentica um usuário e obtém um token de acesso.
+## Autenticação
+### Endpoint: '/api/auth'
 
 ```json
 {
